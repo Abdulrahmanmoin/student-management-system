@@ -1,0 +1,2 @@
+This project is a simple console based Student Management System.In this project you will be able to add new students, generate a 5 digit unique studentID for each student, enroll students in the given courses. 
+Also, you will be able to perform following operations enroll, view balance, show status, etc. The status will show all the details of the student including name, id, courses enrolled and balance.

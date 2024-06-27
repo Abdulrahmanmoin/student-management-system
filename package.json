@@ -1,0 +1,24 @@
+{
+  "name": "@abdulrahmanmoin/cli-based-student-management-system",
+  "version": "1.1.1",
+  "description": "This project is a simple console based Student Management System.In this project you will be able to add new students, generate a 5 digit unique studentID for each student, enroll students in the given courses. Also, you will be able to perform following operations enroll, view balance, show status, etc. The status will show all the details of the student including name, id, courses enrolled and balance.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.9"
+  },
+  "dependencies": {
+    "inquirer": "^9.3.0"
+  }
+}
